@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2017 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="pencil-alt" unicode="&#xe800;" d="M879 764q32-32 32-79t-33-79l-422-421q-16 60-56 101t-101 56l421 423q32 32 79 32t80-33z m-559-716l-302-145 144 304q32 32 79 32t80-33 32-79-33-79z" horiz-adv-x="928" />
+
+<glyph glyph-name="home" unicode="&#xe801;" d="M464 797l447-446-112 0 0-448-669 0 0 448-112 0z m224-781l0 401-224 157-223-157 0-401 168 0 0 168 112 0 0-168 167 0z" horiz-adv-x="928" />
+
+<glyph glyph-name="camera" unicode="&#xe802;" d="M464 239q0 112 112 112t112-112-112-112-112 112z m-446 223q0 46 33 79t79 33l223 0 96 185q13 38 53 38l153 0q40 0 53-37l91-186q46 0 79-33t33-79l0-559-893 0 0 559z m112-55q0-23 17-40t39-16 39 16 16 40-16 39-39 16-39-16-17-39z m223-168q0-92 66-158t157-65 157 65 66 158-66 157-157 66-157-66-66-157z" horiz-adv-x="928" />
+</font>
+</defs>
+</svg>
